@@ -1,0 +1,4 @@
+var Symbol = function() {
+
+  
+}
